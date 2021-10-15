@@ -1,0 +1,11 @@
+#Gitignore for vs code.
+
+# Files debugging
+*.json
+
+# Executables
+bin/
+
+#Object code files
+build/
+
